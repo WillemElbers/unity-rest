@@ -1,7 +1,0 @@
-cn: webform
-member: emailaddress=xxx@example.com,ou=members,dc=example,dc=com
-member: emailaddress=xxx2@example.com,ou=members,dc=example,dc=com
-
-cn: webform2
-member: emailaddress=xxx@example.com,ou=members,dc=example,dc=com
-member: emailaddress=xxx2@example.com,ou=members,dc=example,dc=com
